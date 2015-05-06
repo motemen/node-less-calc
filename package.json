@@ -1,0 +1,21 @@
+{
+  "name": "less-calc",
+  "version": "0.1.0",
+  "description": "Evaluates Less expressions on CLI",
+  "bin": "cli.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motemen/node-less-calc"
+  },
+  "author": "motemen <motemen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motemen/node-less-calc/issues"
+  },
+  "homepage": "https://github.com/motemen/node-less-calc",
+  "dependencies": {
+    "less": "^2.5.0"
+  }
+}
